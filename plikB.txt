@@ -1,1 +1,2 @@
 Dodanie funkcjonalności w pliku B
+Zmiana funkcjonalności w pliku B
