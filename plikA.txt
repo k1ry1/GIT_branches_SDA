@@ -1,2 +1,2 @@
 Dodanie funkcjonalnośći w pliku A
-Features pliku A
+Features pliku A 3.0
